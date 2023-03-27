@@ -1,0 +1,48 @@
+#wrapper {
+	width: 340px;
+	margin: auto;
+}
+
+ul {
+  padding: 0;
+}
+
+div {
+  padding:1%;
+}
+
+li {
+  padding-right: 0;
+  margin: 0;
+  list-style: none;
+}
+
+img {
+  width: 300px;
+  padding: 2%;
+}
+
+.middle {
+  padding: 3%;
+  border: 1px solid grey;
+  box-shadow: 3px 5px rgb(192, 192, 192);
+}
+
+.fun {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.box {
+  padding: 2%;
+  border: 1px solid grey;
+}
+
+.center {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: left;
+}
